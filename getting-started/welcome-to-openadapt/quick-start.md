@@ -13,6 +13,29 @@ description: Working with OpenAdapt
 OpenAdapt **requires Python3.10 or higher**, you can download it [here](https://www.python.org/downloads/) or try our installer, which will download Python for you.&#x20;
 
 {% tabs %}
+{% tab title="Poetry (recommended)" %}
+First, clone & navigate to the repository:
+
+```
+git clone https://github.com/MLDSAI/OpenAdapt.git
+cd OpenAdapt
+```
+
+If [poetry](https://python-poetry.org) is not installed, you can use pip to install it:
+
+```
+pip install poetry
+```
+
+Lastly, run these lines to setup the environment:
+
+```
+poetry install
+poetry shell
+alembic upgrade head
+```
+{% endtab %}
+
 {% tab title="Git" %}
 ```batch
 git clone https://github.com/MLDSAI/OpenAdapt.git
