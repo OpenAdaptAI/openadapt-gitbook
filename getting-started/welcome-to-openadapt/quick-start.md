@@ -70,7 +70,7 @@ MacOS:  [install\_openadapt.sh](https://github.com/MLDSAI/OpenAdapt/blob/main/in
 ## Make your first recording
 
 {% hint style="info" %}
-**Note:** A GUI is currently in development, see [app](../../reference/api-reference/openadapt-module/app/ "mention")
+**Note:** A GUI is currently in development, see [app-module](../../reference/api-reference/openadapt-module/app-module/ "mention")
 {% endhint %}
 
 To make your first recording, try the following command:
