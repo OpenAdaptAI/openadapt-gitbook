@@ -10,7 +10,7 @@ description: Working with OpenAdapt
 
 ## Installation
 
-OpenAdapt **requires Python3.10 or higher**, you can download it [here](https://www.python.org/downloads/) or try our installer, which will download Python for you.&#x20;
+OpenAdapt **requires Python3.10**, you can download it [here](https://www.python.org/downloads/) or try our installer, which will download Python for you.&#x20;
 
 {% tabs %}
 {% tab title="Poetry (recommended)" %}

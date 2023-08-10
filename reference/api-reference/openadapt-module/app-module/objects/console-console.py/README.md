@@ -4,7 +4,7 @@ description: >-
   log.
 ---
 
-# Console (console.py)
+# 🗒 Console (console.py)
 
 ## Definition
 

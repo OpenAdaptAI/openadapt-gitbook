@@ -4,7 +4,7 @@ description: >-
   local filesystem.
 ---
 
-# LocalFilePicker (local\_file\_picker.py)
+# 📁 LocalFilePicker (local\_file\_picker.py)
 
 ## Definition
 
