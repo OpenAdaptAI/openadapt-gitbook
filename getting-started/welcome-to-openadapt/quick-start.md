@@ -5,7 +5,7 @@ description: Working with OpenAdapt
 # Quick Start
 
 {% hint style="info" %}
-**Experiencing difficulty? Get support on our** [**Slack**](https://join.slack.com/t/mldsai/shared\_invite/zt-1uf94nn7r-qcQnS\~hinLPKftUapNzbuw)**.**
+**Experiencing difficulty? Get support on our** [**Discord**](https://discord.gg/QKPuDqhDHF)**.**
 {% endhint %}
 
 ## Installation
