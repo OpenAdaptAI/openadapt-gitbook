@@ -1,10 +1,6 @@
 # API Reference
 
-Dive into the specifics of each API endpoint by checking out our complete documentation.
-
 ## Core
-
-All the methods associated with `CRUD`ing some pets. Which isn't as weird as it sounds:
 
 {% content-ref url="openadapt-module/record.py.md" %}
 [record.py.md](openadapt-module/record.py.md)
